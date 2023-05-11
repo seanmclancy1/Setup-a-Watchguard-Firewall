@@ -1,7 +1,7 @@
 # Setup-a-Watchguard-Firewall
 Firebox T20 Walkthrough | Watchguard
 <h2>Description</h2>
-Our company uses Watchguard Firewall products when we build networks for clients (when possible). Watchguard Firewall provides a cost-effective, powerful interface that is able to mangage and monitor network traffic while maintaning security. We will be doing a basic walkthrough on how to setup a Firebox T20.
+ Our company uses Watchguard Firewall products when we build networks for clients (when possible). Watchguard Firewall provides a cost-effective, powerful interface that is able to mangage and monitor network traffic while maintaning security. We will be doing a basic walkthrough on how to setup a Firebox T20.
 <br />
 
 <h2>Program walk-through:</h2>
@@ -37,7 +37,7 @@ https://accountmanager.cloud.watchguard.com/create-account
 <br/>
 • The firebox will come with a small pamphlet detailing the activation steps. <br/>
 <br/>
-<img src="https://i.imgur.com/L1olHVS.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/
+<img src="https://i.imgur.com/UwvvXRq.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>  
 •	Activate Firebox (watchguard.com/activate)   
