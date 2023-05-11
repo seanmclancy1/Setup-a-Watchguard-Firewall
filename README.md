@@ -58,13 +58,17 @@ https://accountmanager.cloud.watchguard.com/create-account
 <br/>
 <img src="https://i.imgur.com/LzUbYUj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
+<br/> 
 •	Admin , readwrite are the default login credentials
 <br/>
 <br/>
 •	Create new Configuration, next -> Confirm your firebox is online, choose “Keep the default DHCP external interface settings” and click next <br/>
 •	Choose Domain name and assign DNS server as 9.9.9.9 
 <br/>
+<br/> 
+<img src="https://i.imgur.com/fcbErhC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/ 
 <br/>  
+<br/> 
 •	Assign IP range 
 <br/>
 <br/>  
