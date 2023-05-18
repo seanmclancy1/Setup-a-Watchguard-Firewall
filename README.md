@@ -114,14 +114,14 @@ https://accountmanager.cloud.watchguard.com/create-account
 <br/>
 <br/>
 •	Then go to VLANs <br/>
-•	Mark each VLAN to tagged traffic (BUT NOT YOUR MGMT VLAN) <br/>
+•	Mark each VLAN to tagged traffic (BUT NOT YOUR MGMT VLAN, this will be untagged) <br/>
 <br/> 
 <img src="https://i.imgur.com/NeN7xMG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
 <br/>
 <br/>
-•	Go to network tab and choose domain, starting/edning IP, and DNS servers  <br/>
+•	Go to network tab and choose domain, starting/ending IP, and DNS servers  <br/>
 <img src="https://i.imgur.com/gDByGfn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/
 <br/>
 <br/>
