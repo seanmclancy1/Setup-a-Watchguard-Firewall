@@ -1,4 +1,4 @@
-# Setup-a-Watchguard-Firewall
+# Setup a Watchguard Firewall
 Firebox T20 Walkthrough | Watchguard
 <h2>Description</h2>
  Our company uses Watchguard Firewall products when we build networks for clients (when possible). Watchguard Firewall provides a cost-effective, powerful interface that is able to mangage and monitor network traffic while maintaning security. We will be doing a basic walkthrough on how to setup a Firebox T20.
